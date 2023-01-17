@@ -9,14 +9,15 @@ var numberLength = document.getElementById('lengthNumber')
 
 // Write password to the #password input
 
+// setting criteria for the random password
+
 function writePassword() {
   var complexity = document.getElementById('length').value;
   var passUpperLower = 'ABCDEFGHIJKLMOPQRSTUVWXYZabcdefghijklmopqrstuvwxyz123456789!@#$%^&*()';
-  // var passwordLength = '16';
   var generatePassword = '';
   var preferedLength = document.querySelector('length')
 
-
+  // Randomly generating a password
 
   for (let i = 0; i <= complexity; i++) {
     var complexity = Math.floor(Math.random() * passUpperLower.length);
