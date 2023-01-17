@@ -21,4 +21,4 @@ This can be used to practice JavaScript code to update and enhance existing code
 collaborated with Grant Willis and Luis Lopez on part of the code as well as troubleshoot erros.
 
 
-![A picture of my Password Generator](/main/Assets/PassWordGen.PNG)
+![A picture of my Password Generator](/Assets/PassWordGen.PNG)
