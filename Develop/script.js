@@ -15,7 +15,7 @@ function writePassword() {
   var complexity = document.getElementById('length').value;
   var passUpperLower = 'ABCDEFGHIJKLMOPQRSTUVWXYZabcdefghijklmopqrstuvwxyz123456789!@#$%^&*()';
   var generatePassword = '';
-  var preferedLength = document.querySelector('length')
+
 
   // Randomly generating a password
 
