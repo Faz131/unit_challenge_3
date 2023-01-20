@@ -1,6 +1,6 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
-var preferedLength = document.getElementById('length');
+// var preferedLength = document.getElementById('length');
 var passwordText = document.querySelector("#password");
 var numberLength = document.getElementById('lengthNumber')
 
